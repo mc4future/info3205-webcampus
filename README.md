@@ -1,2 +1,2 @@
 # info3205-webcampus
-School project => Create a updated version of University portal
+School project => Create an updated version of University portal
